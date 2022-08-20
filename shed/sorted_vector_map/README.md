@@ -25,7 +25,7 @@ rust-shed repository for more documentation, including the contributing guide.
 
 sorted_vector_map is both MIT and Apache License, Version 2.0 licensed, as found
 in the
-[LICENSE-MIT](https://github.com/facebookexperimental/rust-shed/blob/master/LICENSE-MIT)
+[LICENSE-MIT](https://github.com/facebookexperimental/rust-shed/blob/main/LICENSE-MIT)
 and
-[LICENSE-APACHE](https://github.com/facebookexperimental/rust-shed/blob/master/LICENSE-APACHE)
+[LICENSE-APACHE](https://github.com/facebookexperimental/rust-shed/blob/main/LICENSE-APACHE)
 files.
